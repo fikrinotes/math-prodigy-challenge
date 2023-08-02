@@ -15,7 +15,7 @@ kenapa saya membuat komitmen ini ? saya ingin mencapai hal hal berikut sebelum s
 
 # Kriteria 
 Saya akan menganggap saya berhasil mengikuti Challenge ini apabila setiap harinya saya berhasil melakukan 1 atau lebih aktivitas berikut :
-- mempelajari suatu topik (ditandai dengan adanya ringkasan topik yang sudah dipelajari - diupload ke github)
+- mempelajari suatu topik minimal 1 jam (direkomendasikan 2 jam) - ditandai dengan adanya ringkasan topik yang sudah dipelajari dan diupload ke github
 - menyelesaikan minimal 10 soal (untuk kalkulus) atau 3 soal (untuk non-kalkulus)
 
 
