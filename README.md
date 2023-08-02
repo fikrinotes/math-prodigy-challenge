@@ -4,6 +4,7 @@ Online Tracker to Become a Math Prodigy
 ---
 
 dengan ini saya berkomitmen untuk belajar dan mengerjakan soal latihan matematika mulai hari ini hingga selesainya masa studi di universitas andalas. repostitori github ini didedikasikan untuk memantau progress saya untuk belajar matematika, untuk kesenangan pribadi dan untuk persiapan lomba. 
+[Track My Progress]
 
 # Target 
 kenapa saya membuat komitmen ini ? saya ingin mencapai hal hal berikut sebelum saya menyelesaikan masa studi S1 di Universitas Andalas :
@@ -16,3 +17,8 @@ kenapa saya membuat komitmen ini ? saya ingin mencapai hal hal berikut sebelum s
 Saya akan menganggap saya berhasil mengikuti Challenge ini apabila setiap harinya saya berhasil melakukan 1 atau lebih aktivitas berikut :
 - mempelajari suatu topik (ditandai dengan adanya ringkasan topik yang sudah dipelajari - diupload ke github)
 - menyelesaikan minimal 10 soal (untuk kalkulus) atau 3 soal (untuk non-kalkulus)
+
+
+
+<!-- link -->
+[Track My Progress]: log.md
